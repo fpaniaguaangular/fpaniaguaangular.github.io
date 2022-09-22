@@ -1,0 +1,14 @@
+[
+    {
+        "titulo":"ZX Spectrum",
+        "ruta":"cover_zx_spectrum",
+        "imagen":"",
+        "fichero":"zx_spectrum_covers.json"
+    },
+    {
+        "titulo":"Dreamcast",
+        "ruta":"covers_dreamcast",
+        "imagen":"",
+        "fichero":"dreamcast_covers.json"
+    }
+]
