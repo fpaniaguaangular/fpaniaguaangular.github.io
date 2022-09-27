@@ -1,14 +1,63 @@
 [
     {
-        "titulo":"ZX Spectrum",
-        "ruta":"cover_zx_spectrum",
-        "imagen":"",
-        "fichero":"zx_spectrum_covers.json"
+        "name":"ATARI 2600 (1977)",
+        "value":"atari2600",
+        "image":""
     },
     {
-        "titulo":"Dreamcast",
-        "ruta":"covers_dreamcast",
-        "imagen":"",
-        "fichero":"dreamcast_covers.json"
+        "name":"MS-DOS (1981)",
+        "value":"msdos",
+        "image":""
+    },
+    {
+        "name":"ZX Spectrum (1982)",
+        "value":"zx_spectrum",
+        "image":""
+    },
+    {
+        "name":"NES (1983)",
+        "value":"nes",
+        "image":""
+    },
+    {
+        "name":"Amstrad CPC (1984)",
+        "value":"amstrad",
+        "image":""
+    },
+    {
+        "name":"Game Boy (1989)",
+        "value":"gameboy",
+        "image":""
+    },
+    {
+        "name":"PlayStation (1994)",
+        "value":"playstation",
+        "image":""
+    },
+    {
+        "name":"PlayStation (alt) (1994)",
+        "value":"playstation_alt",
+        "image":""
+    },
+    {
+        "name":"Dreamcast (1998)",
+        "value":"dreamcast",
+        "image":""
+    },
+    {
+        "name":"PlayStation 2 (2000)",
+        "value":"ps2",
+        "image":""
+    },
+    {
+        "name":"Gamecube (2001)",
+        "value":"gamecube",
+        "image":""
+    },
+    {
+        "name":"Xbox (2001)",
+        "value":"xbox",
+        "image":""
     }
 ]
+
