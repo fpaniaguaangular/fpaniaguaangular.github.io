@@ -1,63 +1,87 @@
 [
     {
-        "name":"ATARI 2600 (1977)",
+        "name":"Atari 2600 (1977)",
         "value":"atari2600",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
+    },
+    {
+        "name":"Intellivision (1979)",
+        "value":"intellivision",
+        "image":"",
+        "orientation":"landscape"
     },
     {
         "name":"MS-DOS (1981)",
         "value":"msdos",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"ZX Spectrum (1982)",
         "value":"zx_spectrum",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"NES (1983)",
         "value":"nes",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"Amstrad CPC (1984)",
         "value":"amstrad",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"Game Boy (1989)",
         "value":"gameboy",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"PlayStation (1994)",
         "value":"playstation",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"PlayStation (alt) (1994)",
         "value":"playstation_alt",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"Dreamcast (1998)",
         "value":"dreamcast",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"PlayStation 2 (2000)",
         "value":"ps2",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"Gamecube (2001)",
         "value":"gamecube",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
     },
     {
         "name":"Xbox (2001)",
         "value":"xbox",
-        "image":""
+        "image":"",
+        "orientation":"portrait"
+    },
+    {
+        "name":"PS3 (2006)",
+        "value":"ps3",
+        "image":"",
+        "orientation":"landscape"
     }
 ]
 
