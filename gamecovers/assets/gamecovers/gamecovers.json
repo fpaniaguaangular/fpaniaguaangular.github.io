@@ -54,6 +54,12 @@
         "orientation":"portrait"
     },
     {
+        "name":"Nintendo 64 (1996)",
+        "value":"n64",
+        "image":"",
+        "orientation":"landscape"
+    },
+    {
         "name":"Dreamcast (1998)",
         "value":"dreamcast",
         "image":"",
