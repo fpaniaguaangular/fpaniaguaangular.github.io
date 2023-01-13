@@ -84,6 +84,12 @@
         "orientation":"portrait"
     },
     {
+        "name":"Nintendo DS (2004)",
+        "value":"nds",
+        "image":"",
+        "orientation":"portrait"
+    },
+    {
         "name":"PS3 (2006)",
         "value":"ps3",
         "image":"",
