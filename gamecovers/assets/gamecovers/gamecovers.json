@@ -36,6 +36,12 @@
         "orientation":"portrait"
     },
     {
+        "name":"Sega Megadrive/Génesis (1988)",
+        "value":"megadrive",
+        "image":"",
+        "orientation":"landscape"
+    },
+    {
         "name":"Game Boy (1989)",
         "value":"gameboy",
         "image":"",
