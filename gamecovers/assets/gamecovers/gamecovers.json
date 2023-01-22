@@ -78,6 +78,12 @@
         "orientation":"portrait"
     },
     {
+        "name":"Game Boy Advance (2001)",
+        "value":"gba",
+        "image":"",
+        "orientation":"portrait"
+    },
+    {
         "name":"Gamecube (2001)",
         "value":"gamecube",
         "image":"",
