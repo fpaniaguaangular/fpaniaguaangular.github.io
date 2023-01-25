@@ -36,6 +36,12 @@
         "orientation":"portrait"
     },
     {
+        "name":"Commodore Amiga (1985)",
+        "value":"amiga",
+        "image":"",
+        "orientation":"portrait"
+    },
+    {
         "name":"Sega Megadrive/Génesis (1988)",
         "value":"megadrive",
         "image":"",
