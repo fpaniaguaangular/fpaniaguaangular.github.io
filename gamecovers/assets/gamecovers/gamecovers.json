@@ -24,6 +24,12 @@
         "orientation":"portrait"
     },
     {
+        "name":"ColecoVision (1982)",
+        "value":"colecovision",
+        "image":"",
+        "orientation":"portrait"
+    },
+    {
         "name":"NES (1983)",
         "value":"nes",
         "image":"",
